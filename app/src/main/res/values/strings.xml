@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JSON Parser</string>
+    <string name="go">Go</string>
+    <string name="search_label">search place in Rome</string>
+    <string name="sample_api">sample  api</string>
+    <string name="local_json">local json</string>
+</resources>
